@@ -18,6 +18,15 @@ This repository contains a simple generic **linkedlist** implementation in Dart.
 
 
 ---
+
+## Running Instructions
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/ajlank/linkedlist-middle.git
+cd linkedlist
+
 ### Example
 
 ```dart
@@ -29,15 +38,7 @@ list.insert(30);
 
 final middle = list.findMiddle();
 print("Middle node: ${middle?.value}");
-## Running Instructions
 
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/ajlank/linkedlist-middle.git
-cd linkedlist
-
-dart main.dart
 
 
 
