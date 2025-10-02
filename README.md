@@ -43,6 +43,6 @@ final list = LinkedListNode<int>();
 final middle = list.findMiddle();
 print("Middle node: ${middle?.value}");
 
-
+From the terminal run->dart main.dart
 
 
